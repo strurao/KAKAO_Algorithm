@@ -1,6 +1,21 @@
 
 ## 📂 KAKAO_Algorithm
 <details markdown="1">
+<summary><strong>📄 2022 카카오 채용연계형 인턴십 (프로그래머스)</summary></strong>
+
+|      문제      | 난이도/정답률 | 분류 |                           URL                            | 
+| :------------: | :--: | :--: |:------------------------------------------------------: |
+|  성격 유형 검사하기   |  B1/L1/49%   |  구현   |https://school.programmers.co.kr/learn/courses/30/lessons/118666 |   
+|   두 큐 합 같게 만들기   |  S2/L2/52%   |  투포인터/그리디   |https://school.programmers.co.kr/learn/courses/30/lessons/118667 |     
+|  코딩 테스트 공부  |  G3/L3/23%   |    DP  |https://school.programmers.co.kr/learn/courses/30/lessons/118668 |   
+| 등산코스 정하기 |  G2/L3/26%   |  다익스트라/Parametirc Search/BFS   |https://school.programmers.co.kr/learn/courses/30/lessons/118669 |    
+|   행렬과 연산   |  P5/L4/11%   |  덱/구현   |https://school.programmers.co.kr/learn/courses/30/lessons/118670 |  
+
+------
+</details>
+
+
+<details markdown="1">
 <summary><strong>📄 2022 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 
