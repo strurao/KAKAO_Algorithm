@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// 플로이드
 int d[205][205];
 int INF = 1e8 + 10;
 int solution(int n, int s, int a, int b, vector<vector<int>> fares) {
@@ -27,7 +26,6 @@ int solution(int n, int s, int a, int b, vector<vector<int>> fares) {
 #include <bits/stdc++.h>
 using namespace std;
 
-// 다익스트라
 using pii = pair<int, int>;
 int d[3][205];
 int INF = 1e8 + 10;
