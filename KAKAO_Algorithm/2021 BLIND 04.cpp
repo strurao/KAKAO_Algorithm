@@ -1,3 +1,5 @@
+//////////////////floyd//////////////////////
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -21,7 +23,7 @@ int solution(int n, int s, int a, int b, vector<vector<int>> fares) {
 }
 
 
-////////////////////////////////////////////////
+//////////////////dijkstra//////////////////////
 
 #include <bits/stdc++.h>
 using namespace std;
