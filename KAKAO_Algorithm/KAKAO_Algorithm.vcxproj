@@ -130,6 +130,7 @@
     <ClCompile Include="2021 BLIND 01.cpp" />
     <ClCompile Include="2021 BLIND 02.cpp" />
     <ClCompile Include="2021 BLIND 04.cpp" />
+    <ClCompile Include="2022 INTERN 01.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
