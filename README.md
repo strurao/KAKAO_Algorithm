@@ -1,5 +1,8 @@
 
 ## 📂 KAKAO_Algorithm
+- 커밋: '문제 이름'으로 통일
+- 파일: '연도, 종류'로 통일
+
 <details markdown="1">
 <summary><strong>📄 2022 카카오 채용연계형 인턴십 (프로그래머스)</summary></strong>
 
